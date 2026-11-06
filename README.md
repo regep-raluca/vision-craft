@@ -25,12 +25,15 @@ Vision-Craft is a Python image processing project built with OpenCV, NumPy and M
 vision-craft/
 │
 ├── examples/
-│   └── results.png
-|
+│   ├── results-flowers-jar.png
+│   ├── results-fruits.png
+│   └── results-kotor-street.png
+│
 ├── images/
-│   └── test.jpg
-|
-├── venv/
+│   ├── flowers-jar.jpg
+│   ├── fruits.jpg
+│   └── kotor-street.jpg
+│
 ├── .gitignore
 ├── image_processing.py
 ├── main.py
